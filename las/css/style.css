@@ -94,7 +94,30 @@ h2 {
 	margin-top: 60px;
 }
 
-//       paste //            
+.navbar {
+	float: right;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.nav-link {
+	padding: 10px 15px;
+	font-size: 18px;
+}
+
+.sigma-hr {
+   	margin: 15px -15px !important;
+}
+
+.sigmapad {
+	padding: 0 1px 1px 0 !important;
+	margin: 0 !important;
+}
+
+.sigmano {
+	padding: 0 !important;
+	margin: 0 !important;
+}
 
 .sigma-home h1 {
 	font-size: 48px;
